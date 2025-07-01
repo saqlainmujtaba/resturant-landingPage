@@ -54,9 +54,7 @@ KFC Official Site for design inspiration
 🙋‍♂️ About the Developer
 **Muhammad Saqlain Mujtaba**
 
-🧑‍💻 Full Stack Developer & Web Designer
-📧 hafizsaqlainmujtaba@gmail.com
-🌐 GitHub: @laladeveloper
-🧑‍💻 Full Stack Developer & Web Designer  
+
+🧑‍💻 **Full Stack Developer & Web Designer**  
 📧 [hafizsaqlainmujtaba@gmail.com](mailto:hafizsaqlainmujtaba@gmail.com)  
 🌐 GitHub: [@saqlainmujtaba](https://github.com/saqlainmujtaba)
